@@ -237,8 +237,8 @@
 			"type": "KMT_CLICK",
 			"key": "LeftButton",
 			"pos": {
-				"x": 0.86,
-				"y": 0.72
+				"x": 1.1,
+				"y": 1.1
 			},
 			"switchMap": false
 		},
